@@ -1,0 +1,20 @@
+[
+  {
+    "timestamp": "2025-10-09 00:45:22",
+    "download": 4.007997741678228,
+    "upload": 5.967143348293606,
+    "ping": 56.002,
+    "jitter": 5.600200000000001,
+    "score": 28,
+    "isp": "Turkcell"
+  },
+  {
+    "timestamp": "2025-10-09 08:49:03",
+    "download": 81.52707454127679,
+    "upload": 69.79560387412347,
+    "ping": 87.93,
+    "jitter": 8.793000000000001,
+    "score": 78,
+    "isp": "National Academic Network and Information Center"
+  }
+]

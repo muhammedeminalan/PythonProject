@@ -1,0 +1,17 @@
+import numpy as np
+
+newArray = np.random.randint(1, 150, 25)
+print(f"newArray : {newArray}")
+print(newArray > 50)
+lastArray = np.random.randint(1, 150, 25)
+print(f"Toplama: {lastArray + newArray}")
+print(f"Çıkarma: {lastArray - newArray}")
+print(f"Çarpma: {lastArray * newArray}")
+print(f"Bölme: {lastArray / newArray}")
+print(f"Mod: {lastArray % newArray}")
+print(f"Üs: {lastArray ** newArray}")
+print(f"newArray Max: {newArray.max()}")
+print(f"newArray Min: {newArray.min()}")
+print(f"newArray Mean: {newArray.mean()}")
+kareKok = np.sqrt(newArray)
+print(f"newArray KareKök: {kareKok}")
