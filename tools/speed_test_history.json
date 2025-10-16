@@ -16,5 +16,23 @@
     "jitter": 8.793000000000001,
     "score": 78,
     "isp": "National Academic Network and Information Center"
+  },
+  {
+    "timestamp": "2025-10-11 15:08:10",
+    "download": 58.22266858605646,
+    "upload": 21.024955085919846,
+    "ping": 133.284,
+    "jitter": 13.3284,
+    "score": 57,
+    "isp": "National Academic Network and Information Center"
+  },
+  {
+    "timestamp": "2025-10-11 17:50:11",
+    "download": 28.95476855090608,
+    "upload": 9.767450945650397,
+    "ping": 59.42,
+    "jitter": 5.942,
+    "score": 49,
+    "isp": "Vodafone Turkey"
   }
 ]

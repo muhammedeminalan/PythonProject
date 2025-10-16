@@ -27,4 +27,9 @@ print(isim.find("m"))
 print(isim.index("m"))
 print(isim.count("i"))
 print(len(isim))
+print(f"toplamı : {5+6}",)
 
+x=10
+y=4
+sonuc=x+y
+print(sonuc)
