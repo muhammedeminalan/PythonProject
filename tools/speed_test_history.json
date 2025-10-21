@@ -34,5 +34,14 @@
     "jitter": 5.942,
     "score": 49,
     "isp": "Vodafone Turkey"
+  },
+  {
+    "timestamp": "2025-10-21 19:21:23",
+    "download": 14.624979045938932,
+    "upload": 7.953748884397975,
+    "ping": 89.414,
+    "jitter": 8.9414,
+    "score": 33,
+    "isp": "Turkcell"
   }
 ]
